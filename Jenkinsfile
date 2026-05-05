@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         AWS_REGION = "us-east-1"
-        ACCOUNT_ID = "070648356263"
+        ACCOUNT_ID = "0123456789"
         REPO_NAME = "my-docker-repo"
         IMAGE_TAG = "latest"
     }
